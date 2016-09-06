@@ -1,1 +1,1 @@
-# dialogue-corpus-generator
+# dialogue-dataset-generator
